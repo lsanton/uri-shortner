@@ -16,7 +16,7 @@ URI Shortner is a tool to short long ugly uri's to short nice looking uri's.
 **Note** : You must have Python 3.7 or above and Git to be installed on your local machine. 
 
 ```sh
-> gh repo clone XiehCanCode/uri-shortner
+> git clone https://github.com/XiehCanCode/uri-shortner.git
 > python3 -m pip install -U flask
 > python3 app.py
 ```
