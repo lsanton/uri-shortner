@@ -8,7 +8,7 @@ URI Shortner is a tool to short long ugly uri's to short nice looking uri's.
 
 * Blazing Speed
 * Simple but powerful
-* Made with a best web franework(Flask)
+* Made with a best web framework(Flask)
 * Fully Customizable
 
 ## Installation
