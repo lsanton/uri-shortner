@@ -23,4 +23,4 @@ URI Shortner is a tool to short long ugly uri's to short nice looking uri's.
 
 ## License
 
-This project is licensed under MIT, Fore more info see <a href="https://github.com/XiehCanCode/uri-shortner/LICENSE">here</a>
+This project is licensed under MIT, Fore more info see <a href="https://github.com/XiehCanCode/uri-shortner/blob/master/LICENSE">here</a>
