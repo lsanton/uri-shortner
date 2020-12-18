@@ -19,6 +19,7 @@ cursor = db.cursor()
 
 
 # create table - first time use only
+# INFO: uncomment this only for the first time use
 #cursor.execute("""CREATE TABLE IF NOT EXISTS data(
     #key TEXT,
     #url TEXT,
