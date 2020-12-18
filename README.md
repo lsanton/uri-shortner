@@ -15,7 +15,7 @@ URI Shortner is a tool to short long ugly uri's to short nice looking uri's.
 
 **Note** : You must have Python 3.7 or above and Git to be installed on your local machine.
 
-**Configuration**: To confugure secret key, host, port edit `config.json` file.
+**Configuration**: To configure secret key, host, port edit `config.json` file.
 
 ```sh
 > git clone https://github.com/XiehCanCode/uri-shortner.git
